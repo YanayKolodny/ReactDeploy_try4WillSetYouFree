@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactDeploy_try4WillSetYouFree/static/css/main.18b4b21a.css",
+    "main.js": "/ReactDeploy_try4WillSetYouFree/static/js/main.92f7a19a.js",
+    "index.html": "/ReactDeploy_try4WillSetYouFree/index.html",
+    "main.18b4b21a.css.map": "/ReactDeploy_try4WillSetYouFree/static/css/main.18b4b21a.css.map",
+    "main.92f7a19a.js.map": "/ReactDeploy_try4WillSetYouFree/static/js/main.92f7a19a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b4b21a.css",
+    "static/js/main.92f7a19a.js"
+  ]
+}
